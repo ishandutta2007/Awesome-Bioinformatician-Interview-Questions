@@ -47,4 +47,4 @@ Contributions welcome, especially from people with real backgrounds in genomics,
 ## 📄 License
 
 [CC BY-SA 4.0](LICENSE) — free to use and adapt, with attribution, sharing improvements back under the same license.
-# Awesome-Bioinformatician-Interview-Questions
+
